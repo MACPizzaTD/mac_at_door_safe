@@ -1,0 +1,68 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "6IjEPxYi0b6_course_id",
+  "title": "At the Door Safety",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro"
+    },
+    {
+      "title": "At the Delivery Location"
+    },
+    {
+      "title": "Additional Best Practices"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6gNoItVa0IM",
+      "title": "Notice for FZs",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5YabovoTa3J",
+      "title": "Splash Page",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5Vhv1wWXDiQ",
+      "title": "Delivery or Callback Practice",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5ejSQ74k9lw",
+      "title": "Delivery or Callback Practice",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6ivKAtlv1tr",
+      "title": "Delivery or Callback Practice",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6LZ4Fv2Zi1r",
+      "title": "Robbery",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5it4m5JO3Y8",
+      "title": "Hazards",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5VZXNHzFC8z",
+      "title": "Conclusion",
+      "scene_index": "3.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1300,
+    "height": 791
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}
